@@ -355,7 +355,7 @@ read -p "Enter New Value: " new
 			fi
 		# ---------------------------------------
 		else
-		echo "Error: This Value ($old) not exist, Enter Exist Value2"	
+		echo "Error: This Value ($old) not exist, Enter Exist Value"	
 		continue
 		fi
 	# ---------------------------------------	
